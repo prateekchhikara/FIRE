@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Paper-📝-blue">
   </a> 
   <a href="https://www.youtube.com/watch?v=Y6Fuoptl8Rs&t=460s&ab_channel=ComputerVisionFoundationVideos">
-    <img src="https://img.shields.io/badge/Youtube-💻-blue">
+    <img src="https://img.shields.io/badge/Youtube-💻-red">
   </a> 
   <a href="https://arxiv.org/abs/2308.14391">
     <img src="https://img.shields.io/badge/ArXiv-📝-yellow">
@@ -45,3 +45,16 @@
 
 - **metric.ipynb**: 
   - To evaluate the performance of title, ingredients, and cooking instructions output, use this notebook.
+
+
+## Citation 
+
+```bib
+@inproceedings{chhikara2024fire,
+  title={Fire: Food image to recipe generation},
+  author={Chhikara, Prateek and Chaurasia, Dhiraj and Jiang, Yifan and Masur, Omkar and Ilievski, Filip},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={8184--8194},
+  year={2024}
+}
+```
