@@ -1,5 +1,19 @@
 # FIRE: Food Image to REcipe generation
 
+<p align="center">
+<!-- Link to tutorials badge using shields.io -->
+<!-- Follow on twitter badge using shields.io -->
+  <a href="https://openaccess.thecvf.com/content/WACV2024/html/Chhikara_FIRE_Food_Image_to_REcipe_Generation_WACV_2024_paper.html">
+    <img src="https://img.shields.io/badge/Paper-📝-blue">
+  </a> 
+  <a href="https://www.youtube.com/watch?v=Y6Fuoptl8Rs&t=460s&ab_channel=ComputerVisionFoundationVideos">
+    <img src="https://img.shields.io/badge/Youtube-💻-blue">
+  </a> 
+  <a href="https://arxiv.org/abs/2308.14391">
+    <img src="https://img.shields.io/badge/ArXiv-📝-yellow">
+  </a>
+</p>
+
 ### Files Description:
 
 - **download.py**: 
