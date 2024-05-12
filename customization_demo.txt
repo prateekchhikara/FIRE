@@ -1,0 +1,82 @@
+Modify the recipe based on the customization requirements
+Title:
+Whole Wheat Waffles
+Original:
+In a large bowl, mix together flour, salt, baking powder, cinnamon, nutmeg, ground cloves, ginger and Flax Seeds; set aside.
+Preheat waffle iron to desired temperature.
+In a separate bowl, beat the eggs.
+Stir in the milk, oil vanilla and honey.
+Mix fruit in dry mixture.
+Pour the milk mixture into the flour/fruit mixture; mix lightly till nicely blended.
+Ladle the batter into a preheated waffle iron.
+Cook the waffles until golden and crisp.
+Requirement：
+Can you make the food less calories?
+Customization:
+In a large bowl, mix together whole grain oat flour, a pinch of salt, baking powder, cinnamon, nutmeg, ground cloves, ginger, and chia seeds; set aside.
+Preheat waffle iron to desired temperature.
+In a separate bowl, beat egg whites.
+Stir in unsweetened almond milk, unsweetened applesauce, vanilla extract, and a calorie-free sweetener like Stevia.
+Consider adding berries like blueberries or strawberries to the mix.
+Pour the milk mixture into the flour/fruit mixture; mix lightly till nicely blended.
+Ladle the batter into a preheated waffle iron.
+Cook the waffles until golden and crisp.
+
+Title:
+Dried Fruit Salad with Philly* Cream
+Original:
+Bring water, juice and sugar to the boil in a saucepan.
+Simmer for 2-3 minutes until sugar has dissolved.
+Add dried fruits and cinnamon stick, simmer a further 5 minutes.
+Whisk together the Philly, milk and honey until smooth.
+Serve fruits warm with Philly cream and toasted almonds.
+Requirement: 
+Can I add some chocolate and bananas into it?
+Customization:
+Bring water, juice, and sugar to a boil in a saucepan.
+Simmer for 2-3 minutes until sugar has dissolved.
+Add dried fruits, bananas sliced into chunks, and a cinnamon stick, and let it simmer for a further 5 minutes.
+After simmering, remove from heat and mix in finely chopped dark chocolate while the mixture is still warm to allow the chocolate to melt and incorporate.
+Whisk together the Philly, milk, and honey until smooth.
+Serve fruits warm with Philly cream, a sprinkle of extra chopped dark chocolate on top for added texture, and toasted almonds
+
+Title:
+Steak & Asparagus Wraps
+Original:
+Pour marinade over steak in resealable plastic bag.
+Seal bag; turn to evenly coat steak with dressing.
+Refrigerate at least 30 min.
+to marinate.
+Meanwhile, preheat grill to medium heat.
+Remove steak from marinade; discard bag and marinade.
+Grill steak 13 to 16 min.
+or until medium doneness (160F), turning occasionally.
+Meanwhile, steam asparagus 8 to 10 min.
+or until crisp-tender.
+Cut steak into thin strips.
+Place 1 to 2 steak strips and about 2 asparagus spears on each tortilla strip; roll up.
+Secure with frilled toothpicks or red bell pepper ties, if desired.
+Serve warm.
+Requirement：
+Can you simplifythe steps to make it easy and short?
+Customization:
+While preheating your grill, quickly marinate the steak with your preferred seasoning or marinade.
+Grill the steak to your desired level of doneness. Simultaneously, grill the asparagus spears until they're slightly charred and tender.
+Cut the grilled steak into thin strips.
+Quickly assemble the wraps by placing steak strips and asparagus spears on each tortilla strip. Roll them up.
+Serve immediately while still warm.
+
+Cheesy Herbed Egg Sandwich
+Original:
+COOK the eggs over medium heat until fluffy, stirring frequently.
+Stir in the cream cheese, until well blended.
+SPOON the cream cheese mixture onto one muffin half.
+TOP with the egg mixture and cheese slice.
+Top with the remaining muffin half.
+Requirement:
+I don not have cheesy but I have some carrots, can you modify the recipe for me?
+Customization:
+Cook the eggs over medium heat until fluffy, stirring frequently.
+Grate some carrots finely. Stir in the grated carrots with the cooked eggs, until well blended.
+Spoon the egg-carrot mixture onto one half of the muffin.
+Top with the remaining muffin half.
